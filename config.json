@@ -23,7 +23,7 @@
     "uri": "mongodb://localhost:27017/rss",
     "connection": {},
     "clean": false,
-    "articlesExpire": 60,
+    "articlesExpire": 365,
     "guildBackupsExpire": 7
   },
   "feeds": {
